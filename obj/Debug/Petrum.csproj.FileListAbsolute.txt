@@ -1,0 +1,11 @@
+C:\Users\benja\source\repos\Petrum\Petrum\bin\Debug\Petrum.exe.config
+C:\Users\benja\source\repos\Petrum\Petrum\bin\Debug\Petrum.exe
+C:\Users\benja\source\repos\Petrum\Petrum\bin\Debug\Petrum.pdb
+C:\Users\benja\source\repos\Petrum\Petrum\obj\Debug\Petrum.csprojAssemblyReference.cache
+C:\Users\benja\source\repos\Petrum\Petrum\obj\Debug\Petrum.Connexion.resources
+C:\Users\benja\source\repos\Petrum\Petrum\obj\Debug\Petrum.Petrum.resources
+C:\Users\benja\source\repos\Petrum\Petrum\obj\Debug\Petrum.Properties.Resources.resources
+C:\Users\benja\source\repos\Petrum\Petrum\obj\Debug\Petrum.csproj.GenerateResource.cache
+C:\Users\benja\source\repos\Petrum\Petrum\obj\Debug\Petrum.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\Petrum\Petrum\obj\Debug\Petrum.exe
+C:\Users\benja\source\repos\Petrum\Petrum\obj\Debug\Petrum.pdb
